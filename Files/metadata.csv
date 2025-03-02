@@ -1,0 +1,35 @@
+Supplier,OrigColumn,MapColumn,isMandatory
+Fast,Project Name,project_name,
+Fast,Sequence Number,sequence_number,
+Fast,Location,incumbent_location,
+Fast,Transaction Date,incumbent_transaction_date,
+Fast,Customer Internal Part number ,incumbent_customer_internal_part_number ,
+Fast,Distributor Name,incumbent_supplier_name,
+Fast,Distributor Part Number,incumbent_supplier_part_number,
+Fast,Item Description,incumbent_item_description,Yes
+Fast,Manufacturer,incumbent_manufacturer_name,
+Fast,Manufacturer Part Number,incumbent_manufacturer_part_number,
+Fast,Other Notes,other_notes,
+Fast,Unit of Measure (UoM),incumbent_unit_of_measure,
+Fast,UoM Quantity,incumbent_uom_quantity,Yes
+Fast,Incumbent Pack Price,incumbent_pack_price,Yes
+Fast,Quantity,usage_quantity,Yes
+Fast,Total baseline units,total_baseline_units,Yes
+Fast,CURRENT EXT,incumbent_current_extended,Yes
+Fast,Savings $,savings,
+Fast,Savings %,savings_per,
+Fast,Savings cat.,savings_cat,
+Fast,BP EXT,bp_extended,
+Fast,UNIT PRICE,bp_unit_price,
+Fast,BP PRICE,bp_pack_price,
+Fast,UOM,bp_supplier_uom,
+Fast,UNITS/ PACK,bp_supplier_uom_qty,
+Fast,NOTES,notes,
+Fast,MANUFACTURER NAME,bp_supplier_manufacturer_name,
+Fast,MANUFACTURER PART NUMBER,bp_supplier_manufacturer_part_number,
+Fast,SKU,bp_supplier_part_number,
+Fast,CATEGORY,bp_product_category,
+Fast,PRODUCT DESCRIPTION,bp_product_description,
+Fast,MATCH TYPE,match_type,
+Fast,BP CORE,bp_core,
+Fast,BP NOTES,bp_notes,

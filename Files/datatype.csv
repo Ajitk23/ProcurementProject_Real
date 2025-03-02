@@ -1,0 +1,38 @@
+Proposed Column Name,Datatype
+project_name,String
+sequence_number,String
+incumbent_location,String
+incumbent_transaction_date,Date
+incumbent_customer_internal_part_number ,String
+incumbent_supplier_name,String
+incumbent_supplier_part_number,String
+incumbent_item_description,String
+incumbent_manufacturer_name,String
+incumbent_manufacturer_part_number,String
+other_notes 1,String
+other_notes 2,String
+other_notes 3,String
+incumbent_unit_of_measure,String
+incumbent_uom_quantity,Number
+incumbent_pack_price,Number
+usage_quantity,Number
+incumbent_unit_price,Number
+total_baseline_units,Number
+incumbent_current_extended,Number
+savings,Number
+savings_per,Number
+savings_cat,String
+bp_extended,Number
+bp_unit_price,Number
+bp_pack_price,Number
+bp_supplier_uom,String
+bp_supplier_uom_qty,Number
+notes,String
+bp_supplier_manufacturer_name,String
+pa_supplier_manufacturer_part_number,String
+bp_supplier_part_number,String
+bp_product_category,String
+bp_product_description,String
+match_type,String
+bp_core,String
+bp_notes,String
