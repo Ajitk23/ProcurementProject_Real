@@ -1,0 +1,9 @@
+{
+	"name": "adf-procurement-ajit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18f5cea5-14ea-495d-ad0d-37f34ab87b43",
+		"tenantId": "e105b773-975a-4f4b-95db-35365d5c5c68"
+	}
+}
